@@ -1,6 +1,8 @@
 # wavenet_talk
 small wavenet talk/review for ML meetup
 
+Based heavily, heavily on <https://deepmind.com/blog/wavenet-generative-model-raw-audio/>.
+
 ## Relevant articles
 * [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1601.06759)
 * [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/abs/1606.05328)
