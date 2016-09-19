@@ -13,3 +13,7 @@ Based heavily, heavily on <https://deepmind.com/blog/wavenet-generative-model-ra
 * <https://github.com/ibab/tensorflow-wavenet>
 * <https://github.com/huyouare/WaveNet-Theano>
 * <https://github.com/basveeling/wavenet>
+
+## Links
+
+* <https://github.com/kjw0612/awesome-rnn>
