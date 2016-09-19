@@ -17,3 +17,7 @@ Based heavily, heavily on <https://deepmind.com/blog/wavenet-generative-model-ra
 ## Links
 
 * <https://github.com/kjw0612/awesome-rnn>
+* <http://karpathy.github.io/2015/05/21/rnn-effectiveness/>
+* <http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/>
+* <http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/>
+* <https://openai.com/blog/generative-models/>
